@@ -6,8 +6,8 @@ export const teachersData = [
   {
     id: 1,
     teacherId: "1234567890",
-    name: "John Doe",
-    email: "john@doe.com",
+    name: "Rohit Kumar",
+    email: "rohtkumar@gmail.com",
     photo:
       "https://images.pexels.com/photos/2888150/pexels-photo-2888150.jpeg?auto=compress&cs=tinysrgb&w=1200",
     phone: "1234567890",
@@ -18,8 +18,8 @@ export const teachersData = [
   {
     id: 2,
     teacherId: "1234567890",
-    name: "Jane Doe",
-    email: "jane@doe.com",
+    name: "Abhishek Kumar Garg",
+    email: "abhishek@gmail.com",
     photo:
       "https://images.pexels.com/photos/936126/pexels-photo-936126.jpeg?auto=compress&cs=tinysrgb&w=1200",
     phone: "1234567890",
@@ -30,8 +30,8 @@ export const teachersData = [
   {
     id: 3,
     teacherId: "1234567890",
-    name: "Mike Geller",
-    email: "mike@geller.com",
+    name: "Shobhit",
+    email: "shobhit@gmail.com",
     photo:
       "https://images.pexels.com/photos/428328/pexels-photo-428328.jpeg?auto=compress&cs=tinysrgb&w=1200",
     phone: "1234567890",
@@ -42,8 +42,8 @@ export const teachersData = [
   {
     id: 4,
     teacherId: "1234567890",
-    name: "Jay French",
-    email: "jay@gmail.com",
+    name: "Krishna",
+    email: "krishna@gmail.com",
     photo:
       "https://images.pexels.com/photos/1187765/pexels-photo-1187765.jpeg?auto=compress&cs=tinysrgb&w=1200",
     phone: "1234567890",
@@ -54,8 +54,8 @@ export const teachersData = [
   {
     id: 5,
     teacherId: "1234567890",
-    name: "Jane Smith",
-    email: "jane@gmail.com",
+    name: "Harshit",
+    email: "harshit@gmail.com",
     photo:
       "https://images.pexels.com/photos/1102341/pexels-photo-1102341.jpeg?auto=compress&cs=tinysrgb&w=1200",
     phone: "1234567890",
@@ -251,17 +251,17 @@ export const studentsData = [
 export const parentsData = [
   {
     id: 1,
-    name: "John Doe",
+    name: "Rohit Kumar",
     students: ["Sarah Brewer"],
-    email: "john@doe.com",
+    email: "rohit@gmail.com",
     phone: "1234567890",
     address: "123 Main St, Anytown, USA",
   },
   {
     id: 2,
-    name: "Jane Doe",
+    name: "Abhishek Kumar Garg",
     students: ["Cecilia Bradley"],
-    email: "jane@doe.com",
+    email: "abhishek@gmail.com",
     phone: "1234567890",
     address: "123 Main St, Anytown, USA",
   },
